@@ -1,0 +1,134 @@
+*{
+    box-sizing:border-box;
+    font-family: 'Balsamic Sans'; 
+}
+header{
+    text-align: center;
+    background:  #000;
+    color: #fff;
+    padding: 10px 0;
+}
+img{
+    margin: auto;
+    display: block;
+    width: 150px;
+    height: 200px;
+    position: fixed;
+}
+
+.contenedor img{
+    margin: auto;
+    display: block;
+    width: 650px;
+    height: 800px;
+}
+.contenedor video{
+    margin: auto;
+    display: block;
+    width: 650px;
+    height: 800px;
+}
+.contenedor img{
+    margin: auto;
+    display: block;
+    width: 650px;
+    height: 800px;
+}
+.contenedor img{
+    
+    margin: auto;
+    display: block;
+    width: 650px;
+    height: 800px;
+}
+.container{
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+section{
+    border: 2px solid  #5624d0;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px 0;
+}
+label{
+    display: block;
+    padding: 7px;
+    border-radius: 7px;
+    cursor: pointer;
+    border: 1px dashed  #ccc;
+    margin-bottom: 3px;
+}
+label:hover{
+    background: #cec0fc;
+}
+table{
+    margin: 50px;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+th{
+    background-color: #000;
+    color: white;
+}
+td,th{
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+video{
+
+    padding-top: 20px;
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+button{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+
+    background-color: #76d7c8;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+button:hover{
+    background: #000;
+    color: #fff;
+}
+
+h2{
+    text-align: center;
+}
+#resultado{
+   font-size: 30px; 
+   color: darkred;
+}
+h1{
+    text-align: center;
+}
+select{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+.contenedor{
+    margin: auto;
+    display: block;
+    width: 650px;
+    height: 800px;
+}
+.contenedor{
+    margin: auto;
+    display: block;
+    width: 650px;
+    height: 800px;
+}
